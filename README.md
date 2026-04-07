@@ -8,7 +8,8 @@
 PCB通用于原开源项目<br />
 实现了本地版上位机控制程序<br />
 固件内增加了多媒体按键的支持<br />
-重新绘制了带tpu缓冲夹心的3D外壳（后续将开源至Makerworld）<br />
+重新绘制了带tpu缓冲夹心的3D外壳<br />
+https://makerworld.com.cn/zh/models/2333225<br />
 <br />
 #### 默认按键配置为：<br />
 单击：静音 + 显示桌面<br />
